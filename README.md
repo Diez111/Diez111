@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Diez111
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hola, soy @Diez111
+- 👀 Me interesa el mundo de la programación y los desafíos que esta puede llegar a presentar.
+- 🌱 Actualmente, estoy aprendiendo Angular, Java y su relación con MySQL.
+- 💞️ Estoy interesado en desarrollar mi portadolio web
+- 📫 Direccion de correo: lautarodiez.trabajo@gmail.com
 
-<!---
-Diez111/Diez111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!---Diez111/Diez111 ✨ :) ✨ --->
