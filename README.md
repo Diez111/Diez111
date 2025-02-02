@@ -1,6 +1,6 @@
 # ¡Hola, soy Lautaro Agustín Diez! 👋
 
-Soy un desarrollador apasionado por el código abierto, con experiencia en **Python**, **TypeScript**, **JavaScript**, **HTML** y **CSS**. Me encanta trabajar en proyectos que generan impacto y aprender tecnologías nuevas constantemente.
+Soy un desarrollador apasionado por el código abierto, con experiencia en **Python**, **TypeScript**, **JavaScript**, **Vue** , **c++**, **Rust**, **Go** , **HTML** y **CSS**. Me encanta trabajar en proyectos que generan impacto y aprender tecnologías nuevas constantemente.
 
 ---
 
@@ -18,8 +18,6 @@ Soy un desarrollador apasionado por el código abierto, con experiencia en **Pyt
   💹 Calcula el interés compuesto de forma interactiva.  
   [Ver Proyecto](https://github.com/Diez111/InteresCompuestoApp)
 
-*(Podés incluir más proyectos destacados según tu criterio y relevancia)*
-
 ---
 
 ## 💻 Tecnologías y Lenguajes
@@ -36,8 +34,6 @@ Utilizo diariamente las siguientes tecnologías:
 - **HTML & CSS**  
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-
-*(Si trabajás con otras tecnologías, agregá el badge correspondiente)*
 
 ---
 
