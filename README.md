@@ -1,6 +1,6 @@
 # ¡Hola, soy Lautaro Agustín Diez! 👋
 
-Soy un desarrollador apasionado por el código abierto, con experiencia en **Python**, **TypeScript**, **JavaScript**, **Vue** , **c++**, **Rust**, **Go** , **HTML** y **CSS**. Me encanta trabajar en proyectos que generan impacto y aprender tecnologías nuevas constantemente.
+Soy un desarrollador apasionado por el código abierto, con experiencia en **Python**, **TypeScript**, **JavaScript**, **Vue**, **C++**, **Rust**, **Go**, **HTML** y **CSS**. Me encanta trabajar en proyectos que generan impacto y aprender tecnologías nuevas constantemente.
 
 ---
 
@@ -27,14 +27,30 @@ Utilizo diariamente las siguientes tecnologías:
 - **Python**  
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffdd54)
 
-- **TypeScript & JavaScript**  
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+- **TypeScript**  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+- **JavaScript**  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-- **HTML & CSS**  
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+- **Vue**  
+  ![Vue](https://img.shields.io/badge/-Vue-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 
+- **C++**  
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+- **Rust**  
+  ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+
+- **Go**  
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+
+- **HTML5**  
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+- **CSS3**  
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+  
 ---
 
 ## 📊 Estadísticas de GitHub
