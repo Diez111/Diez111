@@ -1,6 +1,10 @@
 # ¡Hola, soy Lautaro Agustín Diez! 👋
 
 Soy un desarrollador apasionado por el código abierto, con experiencia en **Python**, **TypeScript**, **JavaScript**, **Vue**, **C++**, **Rust**, **Go**, **HTML** y **CSS**. Me encanta trabajar en proyectos que generan impacto y aprender tecnologías nuevas constantemente.
+---
+## Pagina Personal 💻
+
+https://p-gina-de-presentaci-n.vercel.app/
 
 ---
 
