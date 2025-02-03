@@ -6,6 +6,7 @@ Soy un desarrollador apasionado por el código abierto, con experiencia en **Pyt
 ## Pagina Personal 💻
 
 <p align="center">https://p-gina-de-presentaci-n.vercel.app/</p>
+
 ---
 
 ## 🚀 Proyectos Destacados
