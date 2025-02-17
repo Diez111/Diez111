@@ -1,6 +1,6 @@
 # ¡Hola, soy Lautaro Agustín Diez! 👋
 
-Soy un desarrollador apasionado por el código abierto, con experiencia en **Python**, **TypeScript**, **JavaScript**, **Vue**, **C++**, **Rust**, **Go**, **HTML** y **CSS**. Me encanta trabajar en proyectos que generan impacto y aprender tecnologías nuevas constantemente.
+Soy un desarrollador apasionado por el código abierto, con experiencia en **Python**, **TypeScript**, **JavaScript**, **Vue**, **C++**, **Rust**, **Go**, **HTML** y **CSS**. Me encanta trabajar en proyectos que generan impacto y aprender tecnologías nuevas.
 
 ---
 ## Pagina Personal 💻
@@ -47,14 +47,6 @@ Podes encontrarme en:
 - **LinkedIn**: [Lautaro Agustín Diez](http://www.linkedin.com/in/lautaro-agustin-diez-46916225b)
 - **X (antes Twitter)**: [@Alguien45859689](https://x.com/Alguien45859689)
 - **Correo**: [lautaroagustindiez@gmail.com](mailto:lautaroagustindiez@gmail.com)
-
----
-
-## Sobre Mí
-
-- Trabajo en proyectos de código abierto y siempre estoy abierto a colaboraciones.
-- Me interesa el desarrollo de aplicaciones que integren diversas tecnologías para resolver problemas reales.
-- Me esfuerzo por mantenerme actualizado y aplicar buenas prácticas en cada proyecto.
 
 ---
 
