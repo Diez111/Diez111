@@ -1,6 +1,4 @@
-## Pagina Personal 💻
-
-<p align="center">https://p-gina-de-presentaci-n.vercel.app/</p>
+## Pagina Personal 💻 <p align="center">https://p-gina-de-presentaci-n.vercel.app/</p>
 
 ---
 
