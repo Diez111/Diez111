@@ -1,27 +1,8 @@
 # ¡Hola, soy Lautaro Agustín Diez! 👋
-
-Soy un desarrollador apasionado por el código abierto, con experiencia en **Python**, **TypeScript**, **JavaScript**, **Vue**, **C++**, **Rust**, **Go**, **HTML** y **CSS**. Me encanta trabajar en proyectos que generan impacto y aprender tecnologías nuevas.
-
 ---
 ## Pagina Personal 💻
 
 <p align="center">https://p-gina-de-presentaci-n.vercel.app/</p>
-
----
-
-## 🚀 Proyectos Destacados
-
-- **Spotify-Descargar-Me-gustas**  
-  🎵 Con la API de Spotify, obtengo la lista de “me gusta” y descargo las canciones mediante YouTube.  
-  [Ver Proyecto](https://github.com/Diez111/Spotify-Descargar-Me-gustas)
-
-- **PDF-AUDIO-GUI**  
-  📚 Una aplicación en Python que convierte archivos PDF a audio de forma automática.  
-  [Ver Proyecto](https://github.com/Diez111/PDF-AUDIO-GUI)
-
-- **InteresCompuestoApp**  
-  💹 Calcula el interés compuesto de forma interactiva.  
-  [Ver Proyecto](https://github.com/Diez111/InteresCompuestoApp)
 
 ---
 
@@ -45,9 +26,6 @@ Utilizo diariamente las siguientes tecnologías:
 Podes encontrarme en:
 
 - **LinkedIn**: [Lautaro Agustín Diez](http://www.linkedin.com/in/lautaro-agustin-diez-46916225b)
-- **X (antes Twitter)**: [@Alguien45859689](https://x.com/Alguien45859689)
 - **Correo**: [lautaroagustindiez@gmail.com](mailto:lautaroagustindiez@gmail.com)
 
 ---
-
-*¡Gracias por visitar mi perfil!*
