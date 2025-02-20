@@ -1,5 +1,3 @@
-# ¡Hola, soy Lautaro Agustín Diez! 👋
----
 ## Pagina Personal 💻
 
 <p align="center">https://p-gina-de-presentaci-n.vercel.app/</p>
