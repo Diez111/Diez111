@@ -13,7 +13,7 @@ Utilizo diariamente las siguientes tecnologías:
 
 ---
 
-## 📫 Conectemos
+## 📫 Contactos
 
 Podes encontrarme en:
 - **LinkedIn**: [Lautaro Agustín Diez](http://www.linkedin.com/in/lautaro-agustin-diez-46916225b)
