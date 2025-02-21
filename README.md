@@ -1,7 +1,5 @@
 ## Pagina Personal 💻 <p align="center">https://p-gina-de-presentaci-n.vercel.app/</p>
 
----
-
 ## 💻 Tecnologías y Lenguajes
 
 Utilizo diariamente las siguientes tecnologías:
@@ -11,15 +9,13 @@ Utilizo diariamente las siguientes tecnologías:
 
 ## 📊 Estadísticas de GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diez111&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diez111&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diez111&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diez111&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## 📫 Conectemos
 
 Podes encontrarme en:
-
 - **LinkedIn**: [Lautaro Agustín Diez](http://www.linkedin.com/in/lautaro-agustin-diez-46916225b)
 - **Correo**: [lautaroagustindiez@gmail.com](mailto:lautaroagustindiez@gmail.com)
-
 ---
