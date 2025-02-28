@@ -1,5 +1,9 @@
+##Pagina personal:
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Animación Banner" width="90%"/>
+    <a href="https://p-gina-de-presentaci-n.vercel.app/">
+    <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="Página Personal" width="150"/>
+  </a>
 </p>
 
 ## 💻 Tecnologías y Lenguajes
@@ -22,7 +26,10 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Animación Banner" width="90%"/>
+</p>
+---
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
@@ -37,9 +44,6 @@
 <p align="center">
   <a href="http://www.linkedin.com/in/lautaro-agustin-diez-46916225b">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="100"/>
-  </a>
-    <a href="https://p-gina-de-presentaci-n.vercel.app/">
-    <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="Página Personal" width="150"/>
   </a>
 </p>
 
