@@ -40,7 +40,4 @@
   <a href="http://www.linkedin.com/in/lautaro-agustin-diez-46916225b">
     <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" alt="LinkedIn" width="100"/>
   </a>
-  <a href="mailto:lautaroagustindiez@gmail.com">
-    <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" alt="Email" width="100"/>
-  </a>
 </p>
