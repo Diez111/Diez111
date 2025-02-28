@@ -1,7 +1,7 @@
 ### Pagina Personal:
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Animación Banner" width="80%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Animación Banner" width="100%"/>
 </p>
 
 ## 💻 Tecnologías y Lenguajes
