@@ -1,42 +1,52 @@
 # Pagina Personal 💻
-
 <p align="center">
-  <a href="https://p-gina-de-presentaci-n.vercel.app/">https://p-gina-de-presentaci-n.vercel.app/</a>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="Bienvenido"/>
 </p>
+
+# ¡Hola, soy Lautaro Agustín Diez! 👋
+
+Soy Desarrollador Full Stack y estudiante de Ingeniería en Sistemas en la UTN. Apasionado por el código y siempre en busca de aprender y compartir conocimientos.
+
+---
+
+## 🌐 Página Personal
+[Visita mi Página Personal 💻](https://p-gina-de-presentaci-n.vercel.app/)
+
+---
 
 ## 💻 Tecnologías y Lenguajes
 
-### Tecnologías Web
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Vue-35495E?style=flat&logo=vue.js&logoColor=4FC08D"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-</p>
+### Tecnologías Web & Otras:
+- **HTML5, CSS3 & JavaScript**  
+- **Node.js, Java y AWS**  
+- [Agrega más según tus skills]
 
-### Otras Tecnologías
+### Mis Skills en un Vistazo:
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
 </p>
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diez111&show_icons=true&theme=radical" alt="GitHub Stats" style="margin-right: 40px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diez111&layout=compact&theme=radical" alt="Top Langs"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" alt="Top Langs" />
+</div>
 
 ---
 
 ## 📫 Contactos
+- **LinkedIn:** [Lautaro Agustín Diez](https://linkedin.com/in/TU_LINKEDIN)
+- **Correo:** [tu_correo@example.com](mailto:tu_correo@example.com)
+
+---
 
 <p align="center">
-  <a href="http://www.linkedin.com/in/lautaro-agustin-diez-46916225b">LinkedIn: Lautaro Agustín Diez</a> |
-  <a href="mailto:lautaroagustindiez@gmail.com">Correo</a>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" alt="Animación final"/>
 </p>
