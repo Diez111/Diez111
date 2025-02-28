@@ -4,6 +4,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Animación Banner" width="100%"/>
+</p>
+
 ## 💻 Tecnologías y Lenguajes
 
 ### Tecnologías Web
@@ -34,12 +38,10 @@
 
 ---
 
-## 📫 Contacto
+## 📫 Contactos
 
 <p align="center">
   <a href="http://www.linkedin.com/in/lautaro-agustin-diez-46916225b">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="100"/>
   </a>
 </p>
-
-![image](https://github.com/user-attachments/assets/f9682744-2644-40f5-a64e-879062976947)
