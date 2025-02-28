@@ -1,5 +1,7 @@
 <p align="center">
-  <a href="https://p-gina-de-presentaci-n.vercel.app/">Página Personal</a>
+  <a href="https://p-gina-de-presentaci-n.vercel.app/">
+    <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="Personal Page" width="100"/>
+  </a>
 </p>
 
 ## 💻 Tecnologías y Lenguajes
@@ -35,28 +37,10 @@
 ## 📫 Contactos
 
 <p align="center">
-  <a href="http://www.linkedin.com/in/lautaro-agustin-diez-46916225b">LinkedIn: Lautaro Agustín Diez</a> |
-  <a href="mailto:lautaroagustindiez@gmail.com">Correo</a>
-</p>
-
----
-
-<!-- Animación de Ola -->
-<p align="center">
-  <svg viewBox="0 0 120 28" width="100%" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="gradient" x1="0" x2="0" y1="0" y2="1">
-        <stop offset="5%" stop-color="#00d2ff"/>
-        <stop offset="95%" stop-color="#3a47d5"/>
-      </linearGradient>
-    </defs>
-    <path d="M0 20 Q 30 0 60 20 T 120 20 V 28 H 0 Z" fill="url(#gradient)">
-      <animateTransform 
-        attributeName="transform" 
-        type="translate" 
-        values="0 0; 10 0; 0 0" 
-        dur="4s" 
-        repeatCount="indefinite" />
-    </path>
-  </svg>
+  <a href="http://www.linkedin.com/in/lautaro-agustin-diez-46916225b">
+    <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" alt="LinkedIn" width="100"/>
+  </a>
+  <a href="mailto:lautaroagustindiez@gmail.com">
+    <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" alt="Email" width="100"/>
+  </a>
 </p>
