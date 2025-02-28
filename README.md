@@ -26,7 +26,7 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diez111&show_icons=true&theme=radical" alt="Estadísticas de GitHub" style="margin-right: 30px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Diez111&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diez111&layout=compact&theme=radical" alt="Lenguajes más usados"/>
 </p>
 
