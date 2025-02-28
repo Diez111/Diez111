@@ -34,7 +34,7 @@
 
 ---
 
-## 📫 Contactos
+## 📫 Contacto
 
 <p align="center">
   <a href="http://www.linkedin.com/in/lautaro-agustin-diez-46916225b">
