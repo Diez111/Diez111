@@ -23,8 +23,6 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
 </p>
 
-![image](https://github.com/user-attachments/assets/f9682744-2644-40f5-a64e-879062976947)
-
 ---
 
 ## 📊 Estadísticas de GitHub
@@ -43,3 +41,5 @@
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="100"/>
   </a>
 </p>
+
+![image](https://github.com/user-attachments/assets/f9682744-2644-40f5-a64e-879062976947)
