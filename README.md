@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://p-gina-de-presentaci-n.vercel.app/">
-    <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="Página Personal" width="150"/>
+    <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="Página Personal" width="175"/>
   </a>
 </p>
 
@@ -24,16 +24,20 @@
   <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
 </p>
+
 ---
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Animación Banner" width="90%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Animación Banner" width="70%"/>
 </p>
+
 ---
 
 ## 📊 Estadísticas de GitHub
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diez111&layout=compact&theme=radical&count_private=true" alt="Top Langs"/>
 </p>
+
 ---
 
 ## 📫 Contacto
