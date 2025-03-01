@@ -36,7 +36,6 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Diez111&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" style="margin-right: 40px;"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diez111&layout=compact&theme=radical&count_private=true" alt="Top Langs"/>
 </p>
 
