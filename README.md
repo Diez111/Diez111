@@ -24,25 +24,19 @@
   <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
 </p>
-
 ---
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Animación Banner" width="90%"/>
 </p>
-
---- 
+---
 
 ## 📊 Estadísticas de GitHub
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diez111&layout=compact&theme=radical&count_private=true" alt="Top Langs"/>
 </p>
-
 ---
 
-## 📫 Contactos
-
+## 📫 Contacto
 <p align="center">
   <a href="http://www.linkedin.com/in/lautaro-agustin-diez-46916225b">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="100"/>
