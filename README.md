@@ -107,8 +107,6 @@ App de tarjetas digitales con stack moderno (Vite + TS).
 </tr>
 </table>
 
-El resto de los repos son proyectos más chicos o de práctica. Están en [github.com/Diez111](https://github.com/Diez111?tab=repositories).
-
 ---
 
 ## Stats
