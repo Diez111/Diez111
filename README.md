@@ -4,8 +4,8 @@
 
 <br/>
 
-<a href="https://p-gina-de-presentaci-n-git-main-diez111s-projects.vercel.app/">
-  <img src="https://img.shields.io/badge/Portafolio-0F2027?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio"/>
+<a href="https://www.grafito.org/">
+  <img src="https://img.shields.io/badge/Web_Grafito-0F2027?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web Grafito"/>
 </a>
 <a href="http://www.linkedin.com/in/lautaro-agustin-diez-46916225b">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
