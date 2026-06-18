@@ -118,8 +118,6 @@ El resto de los repos son proyectos más chicos o de práctica. Están en [githu
 <img src="https://github-readme-stats.vercel.app/api?username=Diez111&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="170" alt="Stats"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diez111&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Top Langs"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Diez111&theme=tokyonight&hide_border=true" height="170" alt="Streak"/>
 
 </div>
 
